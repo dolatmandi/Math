@@ -1,0 +1,6 @@
+{
+  "name": "محاسبه‌گر عمران",
+  "description": "ماشین حساب مهندسی و محاسبات تخصصی مهندسی عمران شامل بتن، آرماتور، تحلیل تیر، نقشه‌برداری، پی و تبدیل واحد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

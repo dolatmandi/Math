@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">محاسبه‌گر عمران</string>
+    <string name="app_subtitle">دستیار تخصصی محاسبات مهندسی عمران</string>
+    <string name="tab_scientific">ماشین‌حساب</string>
+    <string name="tab_structural">سازه و بتن</string>
+    <string name="tab_geotech">خاک و نقشه</string>
+    <string name="tab_converter">تبدیل واحد</string>
+    <string name="cd_blueprint_banner">تصویر مهندسی سازه و پل</string>
+    <string name="cd_toggle_theme">تغییر تم روشن و تاریک</string>
+    <string name="cd_history">تاریخچه محاسبات</string>
+    <string name="cd_clear_history">پاک کردن تاریخچه</string>
+    <string name="cd_copy_result">کپی نتیجه</string>
+    <string name="cd_back">بازگشت</string>
+    <string name="cd_backspace">پاک کردن کاراکتر</string>
+    <string name="cd_swap_units">جابجایی واحدها</string>
+    <string name="copied_to_clipboard">در حافظه کپی شد</string>
+</resources>
